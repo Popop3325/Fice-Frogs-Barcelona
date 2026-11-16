@@ -2,7 +2,7 @@
 
 Team: **Fice Frogs** — Lytvyn Oleksii, Telefus Artem, Khmeliuk Arina, Tkachuk Oleksii 
 **Task:** for each of the 199,319 frames of the tactical video, label `H` / `A` / `D` / `X`.
-**Repository:** [TODO: public repository URL]
+**Repository:** https://github.com/Popop3325/Fice-Frogs-Barcelona
 
 ## 1. Summary
 
